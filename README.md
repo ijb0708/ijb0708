@@ -2,7 +2,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijb0708&layout=compact&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
 
-# codeTest score
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ijb0708?theme=dark&font=Noto%20Serif&ext=contest)
 
 <!--
