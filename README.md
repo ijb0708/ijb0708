@@ -1,7 +1,7 @@
 ## 👋 Hello World
 
-Hi, I'm **Jongbin** —  
-Welcome to my GitHub profile!
+ Hi, I'm **Jongbin** —  
+ Welcome to my GitHub profile!
 
 ---
 
@@ -30,9 +30,11 @@ Welcome to my GitHub profile!
 
 If you're interested in collaboration or just want to connect:
 
+- linkedin : [https://www.linkedin.com/in/%EC%A2%85%EB%B9%88-%EC%9D%B4-a57439282/](https://www.linkedin.com/in/%EC%A2%85%EB%B9%88-%EC%9D%B4-a57439282/)
 - Blog: [https://ijb0708.github.io/](https://ijb0708.github.io/) - making...
 - GitHub: [github.com/ijb0708](https://github.com/ijb0708)
 
 ---
 
 _📅 Profile last updated: 2025_  
+
