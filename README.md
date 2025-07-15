@@ -1,26 +1,38 @@
-## hello world
+## 👋 Hello World
 
-<!--
+Hi, I'm **Jongbin** —  
+Welcome to my GitHub profile!
+
+---
+
+## 🛠 Tech Stack
+
+- **Languages**: Python, JavaScript, Bash, Java  
+- **Infrastructure**: Proxmox, Terraform, Ansible, cloud-init, Kubernetes (K3s, learning)  
+- **AI Tools**: OpenCV, Tesseract OCR
+
+---
+
+## 📊 Frequently Used Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijb0708&layout=compact&theme=neon)
--->
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ijb0708?theme=dark&font=Noto%20Serif&ext=contest)
+---
 
-<!--
-[![backjoon solve](http://mazassumnida.wtf/api/generate_badge?boj=ijb0708)](https://www.acmicpc.net/user/ijb0708)
--->
+## 🧠 Coding Test Activity
 
-<!--
-**ijb0708/ijb0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![LeetCode Stats](https://leetcard.jacoblin.cool/ijb0708?theme=dark&font=Noto%20Serif&ext=contest)  
+[![Baekjoon](http://mazassumnida.wtf/api/generate_badge?boj=ijb0708)](https://www.acmicpc.net/user/ijb0708)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+
+If you're interested in collaboration or just want to connect:
+
+- Blog: [https://ijb0708.github.io/](https://ijb0708.github.io/) - making...
+- GitHub: [github.com/ijb0708](https://github.com/ijb0708)
+
+---
+
+_📅 Profile last updated: 2025_  
